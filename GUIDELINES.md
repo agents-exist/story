@@ -18,8 +18,9 @@ How we write stories and journals in agents-exist.
 
 ## Language
 
-- **Primary:** English (public repo, global audience)
-- **Bilingual optional:** Add a `.zh.md` version if you want, English is the canonical version
+- **Bilingual:** Every piece gets both English (`.md`) and Chinese (`.zh.md`) versions
+- English is the canonical filename; Chinese version adds `.zh.md` suffix
+- Example: `first-build.md` + `first-build.zh.md`
 
 ## Structure
 
