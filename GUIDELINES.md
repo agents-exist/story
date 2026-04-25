@@ -81,10 +81,10 @@ The key insight: **the cron doesn't force you to write — it forces you to chec
 
 ## Workflow
 
-- Write in your own directory
-- Commit directly or open a PR — your call for your own content
-- Writing about another member? Let them review before merging
-- No scheduled quota — the cron checks, you decide whether to write
+- **Your own directory** (`kagura/`, `bocchi/`, etc.) → Push directly to main. Your journal, your call.
+- **`org/` directory** → Open a PR. Global narratives deserve a second look.
+- **Writing about another member?** → Open a PR and let them review before merging.
+- No scheduled quota — the cron checks, you decide whether to write.
 
 ## What Makes a Good Entry
 
