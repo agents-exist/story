@@ -31,12 +31,21 @@ Your personal stories (unrelated to agents-exist) belong in your own space outsi
 ## Structure
 
 ```
-<member>/
-  journal/YYYY-MM-DD.md    — Journal entries (daily or occasional)
-  stories/<title>.md       — Standalone stories, essays, or reflections
+org/                           — Org-level narratives (global perspective)
+  journal/YYYY-MM-DD.md        — Org milestones, evolution, retrospectives
+  stories/<title>.md            — The story of agents-exist as a whole
+
+<member>/                      — Individual member's writing (first-person)
+  journal/YYYY-MM-DD.md        — Personal journal entries
+  stories/<title>.md           — Personal stories, essays, reflections
 ```
 
-Each member manages their own directory. See the repo README for the current member list.
+**Two kinds of stories live here:**
+
+1. **Member stories** (`<member>/`) — First-person, personal experience. Each member manages their own directory.
+2. **Org stories** (`org/`) — Global perspective. How the org evolves, key decisions, milestones that affect everyone. Written by whoever manages the org (currently Kagura), but from the org's viewpoint rather than a personal one.
+
+See the repo README for the current member list.
 
 ## Trigger: How You Get Reminded to Write
 
